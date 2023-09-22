@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Wishlist](https://github.com/cjj22NJIT/WishlistCJJ22/assets/144167084/ab22d956-047b-41e3-aa59-2dbf9d086ac6)
+
 
 
 GIF created with ScreenToGif  
